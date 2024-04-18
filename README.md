@@ -31,3 +31,11 @@ git config --global user.email "raguramanraja45@gmail.com"
 ```
 git config --global user.name  "Raguramrrr"
 ```
+
+```
+python app.py
+```
+
+```
+Now open up your local host http://127.0.0.1:8080/
+```
